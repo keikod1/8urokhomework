@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "937A6BF9-475A-429D-B48F-23FEC6E01B41",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:8urok.xcodeproj",
+      "identifier" : "E4233240274E724D007A37A2",
+      "name" : "8urok"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
